@@ -1,0 +1,7 @@
+print("Programming***Essential***in...Python")
+print("     *\n    * *\n   *   *\n  *     *\n ***   ***\n   *   *\n   *   *\n   *****")
+print("I'm student")
+print('"I`m"\n""learning""\n"""Python"""')
+print(int('500', 8))
+print(int('777', 16))
+print(3**(3**4))
